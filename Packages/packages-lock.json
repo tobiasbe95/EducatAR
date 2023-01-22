@@ -320,7 +320,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.16",
+      "version": "2.0.17",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -372,6 +372,15 @@
         "com.unity.services.analytics": "4.0.1"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.unity.rtmv.visualscripting.notifications": {
+      "version": "https://github.com/RoadToTheMetaverse/visualscripting-notifications.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.visualscripting": "1.7.6"
+      },
+      "hash": "a7a713304cfc4af78e7ada2177052a2a729c2a14"
     },
     "com.unity.services.analytics": {
       "version": "4.2.0",
